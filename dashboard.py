@@ -4,7 +4,6 @@ import sqlite3
 import json
 import os
 import matplotlib.pyplot as plt
-import koreanize_matplotlib
 import plotly.express as px
 from datetime import datetime
 import ast
@@ -272,3 +271,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
